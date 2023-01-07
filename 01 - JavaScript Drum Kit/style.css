@@ -26,7 +26,7 @@ html {
   margin: 1rem;
   font-size: 1.5rem;
   padding: 1rem 0.5rem;
-  transition: all 0.025s ease;
+  transition: all 0.025s ease-in-out;
   width: 10rem;
   height: 8rem;
   text-align: center;
